@@ -1,0 +1,11 @@
+name: mix_core_base
+
+version: 1.0.0
+
+environment: 
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ^0.1.2
+
+dependencies:
+  flutter:
+    sdk: flutter
